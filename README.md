@@ -1,10 +1,10 @@
 ***
 # 👋 Hi, I’m @Linuxsoul777
-> - 👀 I’m interested in cyber security, blue team defence and computer science 
+> - 👀 I’m interested in cyber security and computer science 
 > - 🌱 I’m currently studying Computer Science
-> - 👑 I can code in python
-> - 🎓 I am learning Java and C++ also
-> - 📔 I also enjoy using markdown.
+> - 👑 I can code in Python
+> - 🎓 I am learning Java, C++ and SwiftUI
+> - 📔 I also enjoy using markdown
 ***
 ```
 My Public Repos {
