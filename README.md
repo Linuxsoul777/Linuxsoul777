@@ -5,7 +5,7 @@ I love:
 > - Photography
 > - Gaming
 > - Coding (Mainly Swift and python)
-> - Also build a lot of scripts in bash
+> - Scripting in bash/zsh
 > - Terminal :P
 ***
 ```
