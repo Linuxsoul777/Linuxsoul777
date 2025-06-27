@@ -1,6 +1,7 @@
 ***
 # 👋 Hi, I’m @Linuxsoul777
 Building products at TibroDevs by night, System admin by day.
+
 I love:
 > - Photography
 > - Gaming
