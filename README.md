@@ -1,10 +1,12 @@
 ***
 # 👋 Hi, I’m @Linuxsoul777
-> - 👀 I’m interested in cyber security and computer science 
-> - 🌱 I’m currently studying Computer Science
-> - 👑 I can code in Python
-> - 🎓 I am learning Java, C++ and SwiftUI
-> - 📔 I also enjoy using markdown
+Building products at TibroDevs by night, System admin by day.
+I love:
+> - Photography
+> - Gaming
+> - Coding (Mainly Swift and python)
+> - Also build a lot of scripts in bash
+> - Terminal :P
 ***
 ```
 My Public Repos {
